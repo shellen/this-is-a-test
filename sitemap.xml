@@ -3,77 +3,77 @@
 	
 		
 		<url>
-			<loc>https://example.com/eleventy-base-blog/blog/firstpost/</loc>
+			<loc>https://example.com/this-is-a-test/blog/firstpost/</loc>
 			<lastmod>2018-05-01</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/eleventy-base-blog/blog/secondpost/</loc>
+			<loc>https://example.com/this-is-a-test/blog/secondpost/</loc>
 			<lastmod>2018-07-04</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/eleventy-base-blog/blog/thirdpost/</loc>
+			<loc>https://example.com/this-is-a-test/blog/thirdpost/</loc>
 			<lastmod>2018-08-24</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/eleventy-base-blog/blog/fourthpost/</loc>
+			<loc>https://example.com/this-is-a-test/blog/fourthpost/</loc>
 			<lastmod>2018-09-30</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/eleventy-base-blog/blog/untitled/</loc>
+			<loc>https://example.com/this-is-a-test/blog/untitled/</loc>
 			<lastmod>2025-12-22</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/eleventy-base-blog/blog/well-well-well/</loc>
+			<loc>https://example.com/this-is-a-test/blog/well-well-well/</loc>
 			<lastmod>2025-12-23</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/eleventy-base-blog/about/</loc>
+			<loc>https://example.com/this-is-a-test/about/</loc>
 			<lastmod>2025-12-23</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/eleventy-base-blog/blog/</loc>
+			<loc>https://example.com/this-is-a-test/blog/</loc>
 			<lastmod>2025-12-23</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/eleventy-base-blog/</loc>
+			<loc>https://example.com/this-is-a-test/</loc>
 			<lastmod>2025-12-23</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/eleventy-base-blog/tags/</loc>
+			<loc>https://example.com/this-is-a-test/tags/</loc>
 			<lastmod>2025-12-23</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>https://example.com/eleventy-base-blog/feed/feed.xml</loc>
+			<loc>https://example.com/this-is-a-test/feed/feed.xml</loc>
 			<lastmod>2025-12-23</lastmod>
 		</url>
 	
