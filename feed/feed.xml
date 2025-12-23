@@ -5,11 +5,19 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/this-is-a-test/feed/feed.xml" rel="self" />
   <link href="https://example.com/this-is-a-test/" />
-  <updated>2025-12-23T01:38:19Z</updated>
+  <updated>2025-12-23T06:14:05Z</updated>
   <id>https://example.com/this-is-a-test/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title>America</title>
+    <link href="https://example.com/this-is-a-test/blog/america/" />
+    <updated>2025-12-23T06:14:05Z</updated>
+    <id>https://example.com/this-is-a-test/blog/america/</id>
+    <content type="html">&lt;p&gt;America rocks!&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Well well well</title>
     <link href="https://example.com/this-is-a-test/blog/well-well-well/" />
