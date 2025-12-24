@@ -23,7 +23,7 @@
     <link href="https://example.com/this-is-a-test/blog/review-title/" />
     <updated>2025-12-24T02:36:06Z</updated>
     <id>https://example.com/this-is-a-test/blog/review-title/</id>
-    <content type="html">&lt;p&gt;Body of Review&lt;/p&gt;
+    <content type="html">&lt;p&gt;Body of Review. Hey that fixed it.&lt;/p&gt;
 </content>
   </entry>
   <entry>
